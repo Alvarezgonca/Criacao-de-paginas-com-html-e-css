@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    height: 100vh;
+    background: black;
+    color: #ffff;
+}
+
+.titulo-destaque {
+    color:aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
